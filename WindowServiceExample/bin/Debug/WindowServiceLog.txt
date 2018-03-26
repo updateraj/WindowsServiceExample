@@ -1,0 +1,4 @@
+2018-03-26 16:35:17,683 [5] INFO WindowServiceExample.WindowServiceController - WindowServiceExample started.
+2018-03-26 16:36:07,570 [6] INFO WindowServiceExample.WindowServiceController - WindowServiceExample stopped.
+2018-03-26 16:36:10,397 [5] INFO WindowServiceExample.WindowServiceController - WindowServiceExample started.
+2018-03-26 16:36:58,086 [6] INFO WindowServiceExample.WindowServiceController - WindowServiceExample stopped.

@@ -1,0 +1,34 @@
+﻿Installing assembly 'C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.InstallLog
+   assemblypath = C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.exe
+Installing service TEProxyService...
+Service TEProxyService has been successfully installed.
+Creating EventLog source TEProxyService in log Application...
+Committing assembly 'C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.InstallLog
+   assemblypath = C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.exe
+Uninstalling assembly 'C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.InstallLog
+   assemblypath = C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.exe
+Removing EventLog source TEProxyService.
+Service TEProxyService is being removed from the system...
+Service TEProxyService was successfully removed from the system.
+Installing assembly 'C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.InstallLog
+   assemblypath = C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.exe
+Installing service WindowServiceExample...
+Service WindowServiceExample has been successfully installed.
+Creating EventLog source WindowServiceExample in log Application...
+Committing assembly 'C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.InstallLog
+   assemblypath = C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowServiceExample.exe

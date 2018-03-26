@@ -1,0 +1,12 @@
+C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowService.exe.config
+C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowService.exe
+C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\WindowService.pdb
+C:\Users\stelcomms\source\repos\WindowServiceExample\bin\Debug\log4net.dll
+C:\Users\stelcomms\source\repos\WindowServiceExample\obj\Debug\WindowService.csprojResolveAssemblyReference.cache
+C:\Users\stelcomms\source\repos\WindowServiceExample\obj\Debug\TEProxyService.ProjectInstaller.resources
+C:\Users\stelcomms\source\repos\WindowServiceExample\obj\Debug\TEProxyService.WindowService.resources
+C:\Users\stelcomms\source\repos\WindowServiceExample\obj\Debug\WindowService.csproj.GenerateResource.cache
+C:\Users\stelcomms\source\repos\WindowServiceExample\obj\Debug\WindowService.csproj.CoreCompileInputs.cache
+C:\Users\stelcomms\source\repos\WindowServiceExample\obj\Debug\WindowService.csproj.CopyComplete
+C:\Users\stelcomms\source\repos\WindowServiceExample\obj\Debug\WindowService.exe
+C:\Users\stelcomms\source\repos\WindowServiceExample\obj\Debug\WindowService.pdb
